@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645221314858",
+    "project_id": "blaghaty-4e8ea",
+    "storage_bucket": "blaghaty-4e8ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645221314858:android:31ccec05236ae7e21c2e53",
+        "android_client_info": {
+          "package_name": "com.example.blaghaty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645221314858-0hb3j3t2lclf19chsu0l3cljndtgo4ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV3N0_O2R3T2kc2glpm8e3pvqz3vZwUrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645221314858-0hb3j3t2lclf19chsu0l3cljndtgo4ov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
